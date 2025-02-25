@@ -11,7 +11,7 @@ remote_theme: marella/jekyll-theme-documentation
 
 permalink: pretty
 nav:
-  - Home: 'index.md'
+  - Home: index.md
   
   - Demos:
     - Markdown: demos/markdown
