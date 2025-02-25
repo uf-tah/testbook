@@ -2,9 +2,9 @@
 permalink: /
 ---
 
-# jekyll-theme-documentation
+# Hompage?
 
-A Jekyll theme for hosting documentation on GitHub Pages. You can [preview the theme to see what it looks like](https://marella.github.io/jekyll-theme-documentation/), or even [use it today](#usage).
+Testing a homepage.
 
 
 ## Usage
