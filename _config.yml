@@ -1,0 +1,19 @@
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - package.json
+  - package-lock.json
+  - script
+  - src
+
+remote_theme: marella/jekyll-theme-documentation
+
+permalink: pretty
+nav:
+  - Getting Started:
+    - Introduction: ''
+  - Demos:
+    - Markdown: demos/markdown
+    - Another Page: demos/another-page
+    - Table of Contents: demos/toc
