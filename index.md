@@ -1,6 +1,7 @@
-## permalink: /
-
-## H1
+---
+permalink: /
+---
+# H1
 
 Testing the homepage.
 
